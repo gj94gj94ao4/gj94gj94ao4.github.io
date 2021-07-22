@@ -4,12 +4,20 @@
 
 @layer components {
 
-    .grid-icon {
-        @apply col-span-1 h-8 w-8 mx-auto my-auto
-    }
+  .grid-icon {
+    @apply col-span-1 h-8 w-8 mx-auto my-auto;
+  }
 
-    .grid-text {
-        @apply col-span-4 my-auto font-bold text-left
-    }
+  .grid-text {
+    @apply col-span-4 my-auto font-bold text-left;
+  }
+
+  .intro-head {
+    @apply mt-4 text-center text-2xl font-bold border-b-2 pb-2 mx-12 border-blue-300 tracking-widest;
+  }
+
+  .intro-inner {
+      @apply mt-3 space-y-1;
+  }
 
 }
