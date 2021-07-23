@@ -20,4 +20,14 @@
     @apply mt-3;
   }
 
+  .disc-blue-400 li::marker {
+    @apply text-blue-400;
+  }
+
+  .disc-blue-400 li {
+    @apply text-sm;
+  }
+
+
+
 }
