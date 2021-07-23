@@ -17,7 +17,7 @@
   }
 
   .intro-inner {
-      @apply mt-3 space-y-1;
+    @apply mt-3;
   }
 
 }
