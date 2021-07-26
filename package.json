@@ -1,0 +1,26 @@
+{
+  "name": "gj94gj94ao4.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gj94gj94ao4/gj94gj94ao4.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gj94gj94ao4/gj94gj94ao4.github.io/issues"
+  },
+  "homepage": "https://github.com/gj94gj94ao4/gj94gj94ao4.github.io#readme",
+  "devDependencies": {
+    "autoprefixer": "^10.3.1",
+    "postcss": "^8.3.6",
+    "tailwindcss": "^2.2.5",
+    "vite": "^2.4.3"
+  }
+}
