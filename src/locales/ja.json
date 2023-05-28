@@ -1,0 +1,48 @@
+{
+    "jobName" : "株式会社アドテックエンジニアリング",
+    "jobName_en" :"(ADTEC Engineering Co.,Ltd.)",
+    "collageName" : "台灣科技大學(Taiwan Tech.)",
+    "collageDegree" : "資訊管理學士學位",
+
+    "selfIntro" : "自己紹介",
+    "selfIntroContent1" : "ゲームとアニメが好きで、データ、情報、ネットワークに興味がある。",
+    "selfIntroContent2" :"夢は全てのゲームとアニメを一つのプラットフォームに集めて、全てのデータを集めて、全ての情報を集めて、全ての人に提供すること。",
+
+    "workExp" : "職務経歴",
+    "work1Title" : "アドテックエンジニアリング",
+    "work1Sub" : "2022 ~ 至今 工程師, 新潟県長岡市",
+    "work1Content" : "主に紫外線露光装置を生産する、設備サプライヤー。主に装置全体の流れ制御ソフトウェア、各ハードウェア間の相互通信の協調を開発。",
+
+    "projectExp" : "セルフプロジェクト",
+    "responsibility" : "主な内容：",
+    "language" : "言語：",
+    "cowriter" : "共同作者：",
+
+    "project1Title" : "ゲームのライブ配信動画の自動評価システム",
+    "project1Content" : "Twitchのライブ配信のチャットメッセージの数を判断して、セグメントの良し悪しをCNNネットワークに学習させて、セグメントを評価する。",
+    "project1Responsibility" : "システムアーキテクチャ、一部のクローラー、深層学習。",
+    "projcet2Title": "科目の難易度と合格率の情報を提供するウェブサイト",
+    "project2Content" : "台科(TaiwanTech)の科目の授業の難易度と合格率の情報を提供して、選課前に調べて、難しい科目を避ける。",
+    "project2Responsibility" : "バックエンドサーバー、データベース。",
+    "Project3Titile" : "ウェブの動画共有プラットフォーム",
+    "project3Content" : "元の広告主とクリエイターの協力方式を取って、coinHiveを利用して、クリエイターの視聴者に直接暗号通貨を支払う。",
+    "project3Responsibility" : "バックエンドサーバー、データベース。",
+
+    "cirtificate" : "資格",
+
+    "skill" : "スキル",
+    "programLanguage" : "プログラミング言語",
+    "tools" : "ツール",
+    "database" : "データベース",
+    "other" : "その他",
+
+    "schoolExp" : "学歴",
+
+    "school1Title" : "台湾科技大学 Taiwan Tech",
+    "school1Sub" : "2016 ~ 2020.卒",
+    "school1Content" : "情報管理学士",
+    "school2Title" : "北科大附屬桃農",
+    "school2Sub" : "2013 ~ 2016.卒",
+    "school2Content" : "電子系 EE"
+
+}

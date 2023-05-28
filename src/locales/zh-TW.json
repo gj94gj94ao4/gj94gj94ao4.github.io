@@ -1,0 +1,48 @@
+{
+    "jobName" : "株式会社アドテックエンジニアリング",
+    "jobName_en" :"(ADTEC Engineering Co.,Ltd.)",
+    "collageName" : "台灣科技大學(Taiwan Tech.)",
+    "collageDegree" : "資訊管理學士學位",
+
+    "selfIntro" : "自我簡介",
+    "selfIntroContent1" : "喜歡打遊戲，看動畫，對資料、資訊、網路有興趣。",
+    "selfIntroContent2" :"夢想是把所有的動畫遊戲統合在一個平台上，匯聚所有的資料，讓我不用每個網站每個平台找我要玩的遊戲，看的動畫。",
+
+    "workExp" : "工作經歷",
+    "work1Title" : "アドテックエンジニアリング",
+    "work1Sub" : "2022 ~ 至今 工程師, 新潟県長岡市",
+    "work1Content" : "主要生產紫外線曝光機，設備供應商。主要開發裝置整體流程控制軟體、各硬體相互溝通之間的協同。",
+
+    "projectExp" : "專案",
+    "responsibility" : "主要負責：",
+    "language" : "語言：",
+    "cowriter" : "共同作者：",
+
+    "project1Title" : "剪輯遊戲直播影片",
+    "project1Content" : "透過 Twitch 直播時的聊天室留言數量判斷片段(segment)好壞，讓 CNN 網路學習然後評分片段。",
+    "project1Responsibility" : "系統架構、部分爬蟲、深度學習。",
+    "projcet2Title": "課程難度查詢",
+    "project2Content" : "提供台科課程授課難度與通過比率資訊，可以在選課前查詢，避免選到太多太硬的課程。",
+    "project2Responsibility" : "後端伺服器、資料庫。",
+    "Project3Titile" : "網頁影音分享平台",
+    "project3Content" : "取代原本廣告商與創作者合作的方式，利用 coinHive 讓創作者的觀眾直接支付加密貨幣。",
+    "project3Responsibility" : "後端伺服器、資料庫。",
+
+    "cirtificate" : "證書",
+
+    "skill" : "技能",
+    "programLanguage" : "程式語言",
+    "tools" : "工具",
+    "database" : "資料庫",
+    "other" : "其他",
+
+    "schoolExp" : "學歷",
+
+    "school1Title" : "台灣科技大學 Taiwan Tech",
+    "school1Sub" : "2016 ~ 2020.畢",
+    "school1Content" : "資訊管理學士",
+    "school2Title" : "北科大附屬桃農",
+    "school2Sub" : "2013 ~ 2016.畢",
+    "school2Content" : "電子系 EE"
+
+}
